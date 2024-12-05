@@ -1,6 +1,6 @@
 
     body {
-     background-image: url("./jul.jpg);
+     background-image: url("main/jul.jpg);
       min-height: 100vh;
       display: flex;
       flex-direction: column;
@@ -72,7 +72,7 @@
     }
 
 .day {
-  background: url("https://github.com/Alexjayde/Game-of-Christmas/blob/main/wrap.jpg?raw=true");
+  background: url(main/wrap.jpg");
   position: relative;
   border-radius: 15px;
   overflow: hidden;
