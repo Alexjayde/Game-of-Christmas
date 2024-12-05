@@ -72,7 +72,7 @@
     }
 
 .day {
-  background: url(main/wrap.jpg");
+  background: url("./wrap.jpg");
   position: relative;
   border-radius: 15px;
   overflow: hidden;
